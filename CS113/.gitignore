@@ -1,13 +1,7 @@
-#Android Studio stuff
 .gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 /build
-
-*.apk
-*.class
-
-bin/
-gen/
+/captures
