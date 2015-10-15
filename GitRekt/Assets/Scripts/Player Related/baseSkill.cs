@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class baseSkill {
+public abstract class baseSkill {
 	public enum SkillCategory
 	{
 		FLOWCONTROL,
@@ -24,5 +24,5 @@ public class baseSkill {
 	public int		SkillCoodlDown { get; set; }
 	public int		Power { get; set; }
 	
-	public void 	cast();
+	public abstract void 	cast();
 }
