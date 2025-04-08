@@ -1,6 +1,6 @@
-# GitRektGame
+# GitRekt
 
-GitRektGame is a turned-based combat game inspired by classic titles like Pokémon. This project is a showcase of academic game development, demonstrating various game development concepts, including combat state machines, AI interactions, inventory systems, map systems, and cutscenes. 
+GitRekt is a turned-based combat game inspired by classic titles like Pokémon. This project is a showcase of academic game development, demonstrating various game development concepts, including combat state machines, AI interactions, inventory systems, map systems, and cutscenes. 
 
 **Note:** This project is archived and is no longer in active development. Contributions will not be accepted. It exists purely for educational purposes and to showcase game development code.
 
